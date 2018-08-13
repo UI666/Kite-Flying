@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: b6eb200d0a1db2b498ca2c055a9372be
+timeCreated: 1442205507
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kite step_0
+    21300002: kite step_1
+    21300004: kite step_2
+    21300006: kite step_3
+    21300008: kite step_4
+    21300010: kite step_5
+    21300012: kite step_6
+    21300014: kite step_7
+    21300016: kite step_8
+    21300018: kite step_9
+    21300020: kite step_10
+    21300022: kite step_11
+    21300024: kite step_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 60
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: kite step_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1505
+        width: 777
+        height: 546
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_1
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1505
+        width: 780
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_2
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1511
+        width: 778
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_3
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1516
+        width: 777
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_4
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 1522
+        width: 777
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 777
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_6
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 783
+        width: 775
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_7
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 747
+        width: 775
+        height: 534
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_8
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 768
+        width: 778
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_9
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 773
+        width: 777
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 780
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_11
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 777
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kite step_12
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 30
+        width: 778
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 7ca4db83b14b9734f85165798d99c791
+timeCreated: 1444104411
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: butterfly_0
+    21300002: butterfly_1
+    21300004: butterfly_2
+    21300006: butterfly_3
+    21300008: butterfly_4
+    21300010: butterfly_5
+    21300012: butterfly_6
+    21300014: butterfly_7
+    21300016: butterfly_8
+    21300018: butterfly_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: butterfly_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 415
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 415
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 415
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 415
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 235
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 235
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 235
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 235
+        width: 200
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
